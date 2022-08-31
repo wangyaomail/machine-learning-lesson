@@ -10,11 +10,15 @@
 
 ### 1-绪论-8.29
 [![](https://bb-embed.herokuapp.com/embed?v=BV1Ad4y1R7h3)](https://player.bilibili.com/player.html?aid=387584400&bvid=BV1Ad4y1R7h3&cid=818954577&page=1)
-- [视频地址](https://www.bilibili.com/video/BV1Ad4y1R7h3)
-- [课件地址](https://www.bilibili.com/read/cv18358275)
+- [1-视频地址](https://www.bilibili.com/video/BV1Ad4y1R7h3)
+- [1-课件地址](https://www.bilibili.com/read/cv18358275)
 
 ## 2021 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237796)
 
-
+## 代码用到了这些库函数
+- numpy
+- pandas
+- sklearn
+- matplotlib
 
