@@ -1,9 +1,8 @@
 # 机器学习课程代码
 
 - 教材：周志华《机器学习》
-- 时间：2022年9月-12月
-- 提供代码、PPT、课程视频
-欢迎同学们学习、交流
+- 时间：2022年9月-12月、2021年9月-12月
+- 提供代码、PPT、课程视频，欢迎同学们学习、交流
 
 ## 2022 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=678748)
@@ -15,6 +14,16 @@
 
 ## 2021 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237796)
+### 目录
+1. c3.线性模型.ipynb
+2. c4.决策树.ipynb
+3. c5.神经网络.ipynb
+4. c6.支持向量机.ipynb
+5. c7.贝叶斯分类器.ipynb
+6. c8.集成学习.ipynb
+7. c9.聚类学习.ipynb
+8. c10.降维与度量学习.ipynb
+9. c11.特征选择与稀疏学习.ipynb
 
 ## 代码用到了这些库函数
 - numpy
