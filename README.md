@@ -12,6 +12,12 @@
 - [1-视频地址](https://www.bilibili.com/video/BV1Ad4y1R7h3)
 - [1-课件地址](https://www.bilibili.com/read/cv18358275)
 
+### 2022机器学习-2-a-模型评估与选择
+
+[![](https://bb-embed.herokuapp.com/embed?v=BV1mD4y1B7tc)](https://player.bilibili.com/player.html?aid=730186004&bvid=BV1mD4y1B7tc&cid=822579843&page=1)
+- [2-视频地址](https://www.bilibili.com/video/BV1mD4y1B7tc)
+- [2-课件地址](https://www.bilibili.com/read/cv18426619)
+
 ## 2021 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237796)
 ### 目录
