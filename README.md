@@ -18,6 +18,12 @@
 - [2-视频地址](https://www.bilibili.com/video/BV1mD4y1B7tc)
 - [2-课件地址](https://www.bilibili.com/read/cv18426619)
 
+### 2022机器学习-3-a-线性模型
+
+[![](https://bb-embed.herokuapp.com/embed?v=BV1Ue4y1C7kD)](//player.bilibili.com/player.html?aid=557972684&bvid=BV1Ue4y1C7kD&cid=828484747&page=1)
+- [2-视频地址](https://www.bilibili.com/video/BV1Ue4y1C7kD)
+- [2-课件地址](https://www.bilibili.com/read/cv18527034)
+
 ## 2021 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237796)
 ### 目录
