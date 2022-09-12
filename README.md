@@ -15,14 +15,20 @@
 ### 2022机器学习-2-a-模型评估与选择
 
 [![](https://bb-embed.herokuapp.com/embed?v=BV1mD4y1B7tc)](https://player.bilibili.com/player.html?aid=730186004&bvid=BV1mD4y1B7tc&cid=822579843&page=1)
-- [2-视频地址](https://www.bilibili.com/video/BV1mD4y1B7tc)
-- [2-课件地址](https://www.bilibili.com/read/cv18426619)
+- [2-a-视频地址](https://www.bilibili.com/video/BV1mD4y1B7tc)
+- [2-a-课件地址](https://www.bilibili.com/read/cv18426619)
+
+### 2022机器学习-2-b-模型评估与选择
+
+[![](https://bb-embed.herokuapp.com/embed?v=BV1ba411u7vD)](//player.bilibili.com/player.html?aid=217849334&bvid=BV1ba411u7vD&cid=825143265&page=1)
+- [2-b-视频地址](https://www.bilibili.com/video/BV1ba411u7vD)
+- [2-b-课件地址](https://www.bilibili.com/read/cv18464938)
 
 ### 2022机器学习-3-a-线性模型
 
 [![](https://bb-embed.herokuapp.com/embed?v=BV1Ue4y1C7kD)](//player.bilibili.com/player.html?aid=557972684&bvid=BV1Ue4y1C7kD&cid=828484747&page=1)
-- [2-视频地址](https://www.bilibili.com/video/BV1Ue4y1C7kD)
-- [2-课件地址](https://www.bilibili.com/read/cv18527034)
+- [3-a-视频地址](https://www.bilibili.com/video/BV1Ue4y1C7kD)
+- [3-a-课件地址](https://www.bilibili.com/read/cv18527034)
 
 ## 2021 秋季课程
 [点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237796)
